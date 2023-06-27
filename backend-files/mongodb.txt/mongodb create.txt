@@ -1,0 +1,6 @@
+-------------------- mongo db acount---------
+1. mongo db atlast
+2. create user
+3. drivers 
+4. entyre code
+5. npm install mongodb 
